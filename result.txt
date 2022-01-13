@@ -1,0 +1,10 @@
+Independent Feature used = Shell weight(after being dried)
+Dependent Feature = Rings(+1.5 gives the age in years)
+
+Report:
+Intercept of the model = 6.50576054
+Slope of the model = 14.34765032
+R2 Score Value = 0.4008530955550855
+Mean Square Error = 6.485891088761806
+
+Conclusion: 40.08% of the changeability of the dependent output attribute can be explained by the model.
